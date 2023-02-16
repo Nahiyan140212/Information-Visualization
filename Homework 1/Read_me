@@ -1,0 +1,19 @@
+IFSC 4345/5345      Information Visualization
+
+Homework/Discussion 1: Help a company choose mobile OS
+
+"Audio Ants" is a multi-national corporation with offices and partners in many countries around the world. They are looking to use mobile operating systems to help a number of their production phases, and the first step is to adopt two or three OS candidates to test their fit in their various departments. For the adopted candidates, they will provide training and test data, assess their strengths, and make any customization as needed.
+
+This homework requires you to build visualization(s) that would be used by managers and experts from various departments to provide a quick, complete, general view of properties as listed at https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems (only information from the tables About OS and Sound and voice of that page can be used). The following pieces of information were deemed important, and should be apparent in your visualization(s):
+
+Only operating systems that appear in both About OS and Sound and voice tables are to be considered (it is not enough to appear in only one of the tables)
+only the rows listed below are important for the company:
+rows Market share, Current version, and Supported CPU architecture from the first table in that section
+all rows in the table named Sound and voice.
+The company would like you to create a visualization with all the potential operating systems (those that appear in both tables), and present that to their managers and data experts to allow them to quickly find, compare, and discuss their favorite OS(s) particular to their situation. Assume that your audience has only a basic familiarity with the features described in the table (this is more for managers than experts).
+
+Use any graphics package of your choosing and build snapshots of the final visualization(s). It is expected, and it is part of difficulty of this homework, that you would try multiple toolkits. A good starting point is the list of Visualization Toolkits in Blackboard. Some have really good documentation and are easy to use, others may require more specialized knowledge.
+
+In addition to tools made specifically for visualization, you may also try designing and drawing your own visualization (think Paint or PowerPoint drawing). Lecture slides from Blackboard cover a number of visualizations, and those may be able to provide an inspiration for this homework.
+
+The data from the tables About OS and Sound and voice at https://en.wikipedia.org/wiki/Comparison_of_mobile_operating_systems is the only one to be used for this assignment. The columns and tables of interest have been identified in the bullet points above – the other information on that webpage is not relevant. One bullet point may cover multiple columns. Consider the discussion about data and data format from the lecture, and convert those tables in a suitable format (columns for data dimensions, rows for each instance). If needed, feel free to derive additional columns (attributes) from the data in those two tables, but do not add information from other sources.
