@@ -1,0 +1,10 @@
+Feature,Android,iOS,Tizen,Sailfish OS,Ubuntu Touch,HarmonyOS
+Separate volume for ringtone and media,1.0,1.0,0.0,1.0,1.0,1
+Voice commands,1.0,1.0,0.0,0.5,0.0,1
+Offline voice commands,1.0,1.0,0.0,0.0,0.0,0
+Voice recognition,1.0,1.0,0.0,0.0,0.0,1
+Offline voice recognition,1.0,1.0,0.0,0.0,0.0,1
+Non-English voice recognition,1.0,1.0,0.0,0.0,0.0,1
+Sound recorder,0.7,0.7,0.7,0.5,0.5,1
+Call recorder,1.0,0.5,0.0,1.0,0.0,1
+Sound trim,0.5,1.0,0.0,0.0,0.0,1

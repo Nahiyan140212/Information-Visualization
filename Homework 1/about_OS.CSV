@@ -1,0 +1,7 @@
+,% Market share,Current version,Supported CPU architecture,Number of Supported CPU Architecture
+Android,71.9,13.0,"ARM, x86, x86-64",3
+iOS,27.33,16.0,ARM,1
+Tizen,0.22,4.0,"ARM, x86, x86-64",3
+Sailfish OS,0.0,4.3,"ARM, x86-64",2
+Ubuntu Touch,0.0,16.04,"ARM, x86-64",2
+HarmonyOS,4.0,3.0,"ARM, x86, x86-64",3
